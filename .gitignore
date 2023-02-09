@@ -1,8 +1,9 @@
 # ignore the virtual environment folder used to create the bot
 env/
 
-# ignore sensitive files
+# ignore sensitive and useless files
 config*
+.DS_Store
 
 #ignore files that are not ready yet and might contain sensitive info
 commands.py
