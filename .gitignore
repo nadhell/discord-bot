@@ -1,0 +1,8 @@
+# ignore the virtual environment folder used to create the bot
+env/
+
+# ignore sensitive files
+config*
+
+#ignore files that are not ready yet and might contain sensitive info
+commands.py
