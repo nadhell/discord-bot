@@ -1,8 +1,7 @@
 import os
-
 import discord
-from dotenv import load_dotenv
 
+from dotenv import load_dotenv
 load_dotenv(dotenv_path="config")
 
 intents = discord.Intents.default()
