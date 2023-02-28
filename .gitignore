@@ -4,6 +4,3 @@ env/
 # ignore sensitive and useless files
 config*
 .DS_Store
-
-#ignore files that are not ready yet and might contain sensitive info
-commands.py
